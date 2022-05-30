@@ -1,0 +1,21 @@
+*{ 
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin:0px auto;
+    padding:0 2%;
+    position:absolute ;
+    grid-area: left;
+}
+
+.corpo {
+    background-color:aqua;
+    color: rgba(0, 0, 0, 0.3)
+
+}
